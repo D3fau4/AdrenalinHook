@@ -15,6 +15,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AdrenalinHook"
+rootProject.name = "TemplateHook"
 include(":app")
  

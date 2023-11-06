@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">AdrenalinHook</string>
-    <string name="xposedDescription">AdrenalinHook</string>
+    <string name="app_name">TemplateHook</string>
+    <string name="xposedDescription">TemplateHook</string>
 </resources>

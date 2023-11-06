@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "com.hato.adrenalinhook"
-    compileSdk = 33
+    namespace = "com.hato.templatehook"
+    compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.hato.adrenalinhook"
+        applicationId = "com.hato.templatehook"
         minSdk = 25
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
     }
